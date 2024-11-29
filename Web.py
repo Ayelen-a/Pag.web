@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +6,8 @@
 </head>
 
 <body>
+
+
     <h1>La dependencia tegnologica en la vida de los seres humanos.</h1>
     <h1>¿Que es?</h2>
     <p>La dependencia tecnológica, también conocida como adicción a la tecnología, es un comportamiento compulsivo que consiste en usar dispositivos tecnológicos de manera excesiva e inadecuada. Esto puede interferir en las relaciones interpersonales y en las actividades diarias. </p>
@@ -50,6 +51,7 @@
 
         </ul>
     <h1>Muchas gracias por leer :D </h1>
+    <iframe src="https://www.meteoblue.com/en/weather/widget/daily?geoloc=detect&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=1&winddirection=1&uv=1&humidity=1&precipitation=1&precipitationprobability=1&spot=1&pressure=0&layout=dark"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 378px; height: 445px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
 
 </body>
 </html>
